@@ -27,13 +27,44 @@
 - Nour
 - Oscar
 - 前端达芬奇
-- bit
+- bit(EMax)
 - changer
 - 水上吟
 - yuchangongzhu
 - Warwick
 - Prince
 - Emma
+
+## 分工
+
+1. UI / PPT
+- Nour (PM + PPT)
+- Oscar (PM)
+- Emma (UI)
+
+2. [共学营技术调研](https://attractive-spade-1e3.notion.site/AI-Agent-Hackathon-1c653c33b3ea80c7beb7d51bc0ac0dbb)
+- Phala
+  - Warwick
+- Flow
+  - 水上吟
+- 0G
+  - yuchangongzhu
+
+3. 前端
+- 新页面蓝图UI
+  - 前端达芬奇 + 林北
+
+4. 后端
+- 功能 / 架构设计
+  - Dynamism + bit(EMax)
+
+5. 合约
+- 功能 / 架构设计
+  - bit(EMax) + 水上吟
+
+6. meme
+- 生态探索
+  - changer + Prince
 
 
 ## 未来计划
