@@ -4,8 +4,7 @@
 
 ## 项目简介
 
-见 PDF 待更新。
-
+[MatchP Deck V1.0](/Doc/Match%20P%20DeckA.pdf)
 
 
 ## 核心功能
