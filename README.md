@@ -22,7 +22,7 @@
 **测试**：待更新
 **DemoDAY 链接**： 待更新
 
-## 团队成员及分工
+## 团队成员
 - Nour
 - Oscar
 - 前端达芬奇
@@ -34,7 +34,7 @@
 - Prince
 - Emma
 
-## 分工
+## 4/1/2025 todo
 
 1. UI / PPT
 - Nour (PM + PPT)
@@ -64,6 +64,29 @@
 6. meme
 - 生态探索
   - changer + Prince
+
+
+## 4/4/2025 todo
+
+walletConnect => 前端达芬奇  
+详情页Match P开发 => 前端达芬奇  
+首页静态样式 我的页面 静态数据 + 登录  => 林北  
+前端 后端 合约端 联调 => 前端达芬奇 + bit(EMax)  
+数据结构和流向设计 + 接口开发 => Warwick + bit(EMax) + Nour  
+Vote弹窗 UI设计 => Nour
+
+AI agent 设计初衷  
+痛点1:更好裂变；痛点2:客服解答，信息及时规整；痛点3:哪些体验不好的如何更好运营
+
+AI agent UI设计 => Emma  
+AI agent 对话页面开发 => 前端达芬奇  
+AI agent 搭建 => Oscar + yuchangongzhu
+
+后端 API 接口文档 => Dynamism + bit(EMax) + 水上吟  
+页面详情页图片+文案 最终整理 => Nour
+
+
+## 4/8/2025 24:00 截止提交
 
 
 ## 未来计划
