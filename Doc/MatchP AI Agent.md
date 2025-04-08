@@ -14,8 +14,17 @@ Then we can deploy the contract on Flow playground, or local tools named Flow CL
 
 * Using Flow EVM, Flow perfectly support (as they promised) EVM, we can just deploy with Solidity and standard Ethereum tools.
 
-# What is AI agent?
-![alt text](<AI Agent.png>)
-
 # How to build AI Agent with Flow?
-The recommended solution is build the agent on Eliza.
+The recommended solution is build the agent on Eliza. We build our own plugin to interreact with the AI assistant on ElizaOnFlow.
+See the details at the submodule https://github.com/Alwyn-Tan/plugin-matchp.
+
+# Demo Image
+The AI assistant is built for help people with holding match, especially for the AI agent hackathon, which is exactly the match gathered us.
+
+![alt text](./img/AI%20assistant%20demo.png)
+
+And the knowledge, RAG file uses 0G storage:
+
+![Upload RAG file demo](./img/Upload%20RAG%20file%20demo.png)
+
+![0G storage demo](img/0G%20storage%20demo.png)
