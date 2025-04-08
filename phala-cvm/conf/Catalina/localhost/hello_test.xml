@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="D:\2025\proj\servlet-new\src\webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="D:/2025/proj/servlet-new/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-webmvc/5.3.22/spring-webmvc-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-webmvc-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-aop/5.3.22/spring-aop-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-aop-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-beans/5.3.22/spring-beans-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-beans-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-context/5.3.22/spring-context-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-context-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-core/5.3.22/spring-core-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-core-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-jcl/5.3.22/spring-jcl-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-jcl-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-expression/5.3.22/spring-expression-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-expression-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/org/springframework/spring-web/5.3.22/spring-web-5.3.22.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-web-5.3.22.jar"/>
+    <PostResources base="D:/AppGallery/Software/repository/maven/com/alibaba/fastjson/1.2.83/fastjson-1.2.83.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/fastjson-1.2.83.jar"/>
+  </Resources>
+</Context>
